@@ -10,3 +10,12 @@ Thanks for your interest in improving this portfolio.
 6. The repository maintainer reviews proposed changes and decides whether to merge them.
 
 Prefer readable HTML, accessible labels, small vanilla JavaScript changes, and no unnecessary dependencies. Do not submit credentials, personal data, or copyrighted materials you cannot license.
+## Testing requirements
+
+All major new functionality must include appropriate automated tests. Bug fixes should include regression tests when practical.
+
+Before submitting a pull request, contributors should run:
+
+`python3 -m unittest discover -s tests -v`
+
+All tests must pass before changes are merged. Contributors should also verify that the portfolio website displays and functions correctly in a modern browser.
