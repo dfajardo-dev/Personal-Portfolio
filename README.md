@@ -1,7 +1,7 @@
 # Personal-Portfolio
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/dfajardo-dev/Personal-Portfolio/badge)](https://scorecard.dev/viewer/?uri=github.com/dfajardo-dev/Personal-Portfolio)
-
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16146/badge)](https://www.bestpractices.dev/projects/16146)
 A small, static personal portfolio website showcasing software engineering interests and project summaries. This is an early version; some project details are placeholders that will be updated as links and demos become available.
 
 ## Features
@@ -39,5 +39,3 @@ See [ROADMAP.md](ROADMAP.md) for planned work, and [CHANGELOG.md](CHANGELOG.md) 
 
 ## License
 The source code is licensed under the [MIT License](LICENSE). Project names and descriptions are for portfolio presentation; please replace placeholder details with verified links before presenting them as completed projects.
-
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16146/badge)](https://www.bestpractices.dev/projects/16146)
