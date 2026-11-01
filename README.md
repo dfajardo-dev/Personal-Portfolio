@@ -39,3 +39,5 @@ See [ROADMAP.md](ROADMAP.md) for planned work, and [CHANGELOG.md](CHANGELOG.md) 
 
 ## License
 The source code is licensed under the [MIT License](LICENSE). Project names and descriptions are for portfolio presentation; please replace placeholder details with verified links before presenting them as completed projects.
+
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16146/badge)](https://www.bestpractices.dev/projects/16146)
