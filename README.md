@@ -2,6 +2,7 @@
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/dfajardo-dev/Personal-Portfolio/badge)](https://scorecard.dev/viewer/?uri=github.com/dfajardo-dev/Personal-Portfolio)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16146/badge)](https://www.bestpractices.dev/projects/16146)
+
 A small, static personal portfolio website showcasing software engineering interests and project summaries. This is an early version; some project details are placeholders that will be updated as links and demos become available.
 
 ## Features
